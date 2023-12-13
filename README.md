@@ -15,4 +15,5 @@ a collection of long prompt which guides large language model to do complex thin
 
 * When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories https://arxiv.org/abs/2212.10511
 * Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning https://arxiv.org/abs/2305.14160
+* LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models & LongLLMLingua https://github.com/microsoft/LLMLingua
 * Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning https://arxiv.org/abs/2303.10475
