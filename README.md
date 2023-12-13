@@ -9,6 +9,7 @@ a collection of long prompt which guides large language model to do complex thin
 * multi digits addition (more advanced scratchpad) https://arxiv.org/pdf/2307.03381.pdf
 * 10x10 multiplication https://twitter.com/kenshin9000_/status/1672182799384690690
 * Tic Tac Toe https://twitter.com/kenshin9000_/status/1665346616608403459
+* MMLU RAG https://github.com/microsoft/promptbase/blob/main/src/promptbase/mmlu/MMLU.py
 
 # debugging
 
