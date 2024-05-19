@@ -10,6 +10,7 @@ a collection of long prompt which guides large language model to do complex thin
 * 10x10 multiplication https://twitter.com/kenshin9000_/status/1672182799384690690
 * Tic Tac Toe https://twitter.com/kenshin9000_/status/1665346616608403459
 * MMLU RAG https://github.com/microsoft/promptbase/blob/main/src/promptbase/mmlu/MMLU.py
+* Wow! llama-3-8b's in-context learning is unbelievable https://www.reddit.com/r/LocalLLaMA/comments/1c7r2jw/wow_llama38bs_incontext_learning_is_unbelievable/
 
 # debugging
 
